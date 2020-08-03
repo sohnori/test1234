@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">TextViewTest</string>
+    <string name="process1">프로그램1</string>
+    <string name="process2">프로그램2</string>
+    <string name="process3">프로그램3</string>
+    <string name="process4">프로그램4</string>
+    <string name="process5">프로그램5</string>
+    <string name="process6">프로그램6</string>
+    <string name="process7">프로그램7</string>
+    <string name="process8">프로그램8</string>
+    <string name="action_settings">Settings</string>
+
+</resources>
